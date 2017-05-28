@@ -1,0 +1,11 @@
+mvn clean install
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
+java -jar target/hazelcast-0.0.1.jar
